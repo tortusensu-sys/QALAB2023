@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         String configTest[] = {"123.123.42.12", "jkbe", "21231"};
         String configProd[] = {"www.google.com", "jkbenites", "alalals"};
         String configDesa[] = {"123.123.42.10", "userdesa02", "1234"};
@@ -21,7 +20,8 @@ public class Main {
 
 
         //Hacer doble bucle for/for
-
+        //comentario nuevo
+        String user = config[XPROD][CUSER];
 
         //CLAVE: DESARROLLO
 
